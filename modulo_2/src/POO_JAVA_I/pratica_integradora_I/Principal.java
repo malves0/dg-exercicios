@@ -1,4 +1,4 @@
-package java1;
+package POO_JAVA_I.pratica_integradora_I;
 
 public class Principal {
 
