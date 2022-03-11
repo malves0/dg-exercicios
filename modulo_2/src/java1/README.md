@@ -1,4 +1,4 @@
-#Exercício:
+# Exercício:
 ## Temperaturas Globais
 Um portal de notícias registrou dados das diferentes temperaturas que algumas cidades do mundo obtiveram durante o ano passado. A partir desses registros, eles foram capazes de determinar a menor e a maior temperatura para cada uma das cidades. Por exemplo, foi determinado que para Londres, o mínimo era -2o C e o máximo era 33o C., no entanto, atualmente eles precisam montar uma notícia onde especifiquem qual foi a temperatura máxima entre todas as cidades cadastradas e qual foi a mínima. Para isso,
 eles possuem um vetor com os nomes de cada uma das cidades e uma matriz de duas colunas que especificam as suas temperaturas máximas e mínimas, que são especificadas
